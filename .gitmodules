@@ -1,0 +1,3 @@
+[submodule "gitSubModuleSlave"]
+	path = gitSubModuleSlave
+	url = git@github.com:dennisdoc/gitSubModuleSlave.git
